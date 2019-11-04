@@ -1,2 +1,2 @@
 # codewars
-Past codewars solutions and alternative solutions.
+Past codewars solutions, alternative solutions and hacked versions to track back to as a refernce.
